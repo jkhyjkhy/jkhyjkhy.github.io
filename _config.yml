@@ -63,7 +63,7 @@ defaults:  # 페이지의 머리말에 선언하지 않아도 아래 내용들�
       sidebar:          # (내 커스텀 변수) 블로그 목차 보기
         nav: main-sidebar   # (내 커스텀 변수) /_data/navigation.yml에 main-sidebar의 내용을 정의
       # (내 커스텀 기능) 구글 드라이브에서 이미지 가져오기 url 접두어
-      gdrive_url_prefix: "https://drive.google.com/uc?export=view&id="
+  gdrive_url_prefix: "https://drive.google.com/uc?export=view&id="
 #
 # !! You don't need to change any of the configuration flags below !!
 #
